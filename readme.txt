@@ -16,5 +16,7 @@ Files Included :
 -->enter study_hours less than 10
 
 Ensure to have all prerequisites like Python,flask,pandas etc.
+This is also deployed on heroku using Prcofile and requirements.txt as shown.
+
 
  	
